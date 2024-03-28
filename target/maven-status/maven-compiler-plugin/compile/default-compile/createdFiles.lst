@@ -1,0 +1,2 @@
+org\wso2\custom\user\store\CustomUserStoreManager.class
+org\wso2\custom\user\store\internal\UserStoreMgtDSComponent.class
